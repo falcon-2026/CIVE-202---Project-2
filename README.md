@@ -25,6 +25,4 @@ This program performs a concrete mix design calculation using the NDOT Mix Desig
 ### 3. Methods
 - All coding was done in a jupyter notebook and all methods were executed by Python functions and coding.
 - Create functions to calculate water weight, cement volume, fly ash volume, silica volume, other SCM volume, air volume, water volume, total aggregate volume, coarse aggregate volume, and other aggregate volume. Parameters are defined based on required mathematical components.
-- After each funtion is defined, use the string of user inputs and provide the code with values to be used in the calculations. Input the project number and concrete class, along with the following prompted inputs.
-
-`Using Scenario 1's values, here is the weight chart produced from our code.`
+- After each funtion is defined, use the string of user inputs and provide the code with values to be used in the calculations. Input the project number and concrete class, along with the following prompted inputs. The variables are determined using specified variables and formulas displayed in the provided excel sheet.
